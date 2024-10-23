@@ -1,0 +1,31 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega128A"</DEVICE>
+ <WORKING_DIR>C:\moje\studia\sem5\mikrokoko\zad3\zad3\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/moje\apps\microchip_studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\moje\apps\microchip_studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\moje\studia\sem5\mikrokoko\zad3\zad3\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/moje\apps\microchip_studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m128Adef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\moje\studia\sem5\mikrokoko\zad3\zad3\Debug\zad3.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>zad3.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>zad3.map</FILE>
+  <FILE>zad3.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <start><FILE>C:\moje\studia\sem5\mikrokoko\zad3\zad3\main.asm</FILE><LINE>14</LINE></start>
+  <glowny><FILE>C:\moje\studia\sem5\mikrokoko\zad3\zad3\main.asm</FILE><LINE>27</LINE></glowny>
+  <delayx><FILE>C:\moje\studia\sem5\mikrokoko\zad3\zad3\main.asm</FILE><LINE>51</LINE></delayx>
+  <delay1ms><FILE>C:\moje\studia\sem5\mikrokoko\zad3\zad3\main.asm</FILE><LINE>52</LINE></delay1ms>
+  <petla><FILE>C:\moje\studia\sem5\mikrokoko\zad3\zad3\main.asm</FILE><LINE>55</LINE></petla>
+ </LABELS>
+</ASSEMBLER_INFO>
