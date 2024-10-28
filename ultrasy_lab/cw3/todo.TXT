@@ -1,0 +1,16 @@
+
+
+podzielic wykres, przersunac 		- 
+
+sprawnosc w kazdej czestotliwosci 	-
+
+szerokosc pasma, dobraoc, natezenie fali-
+(dla kazdego z 3 rezonansow)
+
+
+błędy: 
+wyliczyc 				-
+
+porownac z hydrofonem 			-
+
+moje - obliczenia, bledy, pkt 4 
