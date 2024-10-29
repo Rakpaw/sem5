@@ -12,5 +12,3 @@ błędy:
 wyliczyc 				-
 
 porownac z hydrofonem 			-
-
-moje - obliczenia, bledy, pkt 4 
